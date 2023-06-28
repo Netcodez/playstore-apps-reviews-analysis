@@ -3,9 +3,9 @@ Overview
 This repository contains the code and data for the Google Play Store Apps and Reviews Analysis project. The project aims to provide a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. The analysis focuses on extracting insights from the data to devise strategies for driving growth and retention in the app market.
 
 ## Table of Contents
-Introduction
-Data Cleaning
-Correcting Data Types
+- Introduction
+-  Data Cleaning
+- Correcting Data Types
 Exploring App Categories
 Distribution of App Ratings
 Size and Price of an App
