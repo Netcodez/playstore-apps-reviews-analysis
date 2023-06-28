@@ -6,15 +6,16 @@ This repository contains the code and data for the Google Play Store Apps and Re
 - Introduction
 -  Data Cleaning
 - Correcting Data Types
-Exploring App Categories
-Distribution of App Ratings
-Size and Price of an App
-Relationship between App Category and Price
-Filtering Out "Junk" Apps
-Popularity of Paid Apps vs Free Apps
-Sentiment Analysis of User Reviews
-Conclusion
-Introduction
+- Exploring App Categories
+- Distribution of App Ratings
+- Size and Price of an App
+- Relationship between App Category and Price
+- Filtering Out "Junk" Apps
+- Popularity of Paid Apps vs Free Apps
+- Sentiment Analysis of User Reviews
+- Conclusion
+
+## Introduction
 Mobile apps have become prevalent and lucrative in today's market. This project aims to analyze the Android app market by comparing various apps available on Google Play. The analysis provides valuable insights to drive growth and improve user retention strategies.
 
 ## Data Cleaning
